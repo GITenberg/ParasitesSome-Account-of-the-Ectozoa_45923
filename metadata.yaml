@@ -1,0 +1,29 @@
+_repo: ParasitesSome-Account-of-the-Ectozoa_45923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobbold, T. Spencer (Thomas Spencer)
+    alias: Cobbold, Thomas Spencer
+    birthdate: 1828
+    deathdate: 1886
+    gutenberg_agent_id: '43524'
+    url: http://www.gutenberg.org/2009/agents/43524
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parasites'
+- !lcc 'QL'
+- !lcsh 'Helminths'
+title: "Parasites: A Treatise on the Entozoa of Man and Animals\r\nIncluding Some\
+  \ Account of the Ectozoa"
+url: http://www.gutenberg.org/ebooks/45923
